@@ -1,0 +1,13 @@
+{
+  "name": "global-chrome",
+  "version": "0.0.1",
+  "description": "Require the `chrome` global (for WebExtensions)",
+  "main": "index.js",
+  "keywords": [
+    "webext",
+    "chrome",
+    "global"
+  ],
+  "author": "Erik Vold",
+  "license": "MIT"
+}
