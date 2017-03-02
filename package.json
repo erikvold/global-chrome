@@ -9,5 +9,6 @@
     "global"
   ],
   "author": "Erik Vold",
+  "repository": "git://github.com/erikvold/global-chrome.git",
   "license": "MIT"
 }
