@@ -10,5 +10,8 @@
   ],
   "author": "Erik Vold",
   "repository": "git://github.com/erikvold/global-chrome.git",
+  "bugs": {
+    "url": "https://github.com/erikvold/global-chrome/issues"
+  },
   "license": "MIT"
 }
